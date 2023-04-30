@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="praktikum.IngredientTest" time="0.002" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="praktikum.IngredientTest" time="0.001" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.3.1"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -65,10 +65,10 @@
     <property name="sun.stdout.encoding" value="UTF-8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="praktikum.IngredientTest" name="testGetIngredientPrice[Тестовые данные: FILLING Galangal 166,2]" time="0"/>
-  <testcase classname="praktikum.IngredientTest" name="testGetIngredientName[Тестовые данные: FILLING Galangal 166,2]" time="0"/>
-  <testcase classname="praktikum.IngredientTest" name="testGetIngredientType[Тестовые данные: FILLING Galangal 166,2]" time="0"/>
-  <testcase classname="praktikum.IngredientTest" name="testGetIngredientPrice[Тестовые данные: SAUCE Kokam 21,91]" time="0"/>
-  <testcase classname="praktikum.IngredientTest" name="testGetIngredientName[Тестовые данные: SAUCE Kokam 21,91]" time="0.001"/>
-  <testcase classname="praktikum.IngredientTest" name="testGetIngredientType[Тестовые данные: SAUCE Kokam 21,91]" time="0.001"/>
+  <testcase classname="praktikum.IngredientTest" name="testGetIngredientPrice[Тестовые данные: FILLING Kudzu 236,47]" time="0"/>
+  <testcase classname="praktikum.IngredientTest" name="testGetIngredientName[Тестовые данные: FILLING Kudzu 236,47]" time="0"/>
+  <testcase classname="praktikum.IngredientTest" name="testGetIngredientType[Тестовые данные: FILLING Kudzu 236,47]" time="0"/>
+  <testcase classname="praktikum.IngredientTest" name="testGetIngredientPrice[Тестовые данные: SAUCE Buckwheat Noodles 76,24]" time="0.001"/>
+  <testcase classname="praktikum.IngredientTest" name="testGetIngredientName[Тестовые данные: SAUCE Buckwheat Noodles 76,24]" time="0"/>
+  <testcase classname="praktikum.IngredientTest" name="testGetIngredientType[Тестовые данные: SAUCE Buckwheat Noodles 76,24]" time="0"/>
 </testsuite>
